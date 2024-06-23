@@ -466,7 +466,7 @@ from io import BytesIO
 st.set_page_config(page_title="EY Project 1", page_icon="🌐")
 
 # EY logo and title
-st.image("ernst-young-ey-logo.png", width=200)
+st.image("EY_logo_2019.svg.png", width=200)
 st.title('EY\'s Automated Data Cleaning and Validation')
 
 page_bg_img = '''
