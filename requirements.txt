@@ -6,4 +6,8 @@ pygraphviz
 networkx
 seaborn
 streamlit
+plotly
+streamlit_tags
+streamlit_agraph
+
 
