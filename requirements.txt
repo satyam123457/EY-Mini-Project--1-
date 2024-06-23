@@ -1,6 +1,7 @@
 matplotlib
 numpy
 pandas
+graphviz
 pygraphviz
 seaborn
 streamlit
