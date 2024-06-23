@@ -3,6 +3,7 @@ numpy
 pandas
 graphviz
 pygraphviz
+networkx
 seaborn
 streamlit
 
