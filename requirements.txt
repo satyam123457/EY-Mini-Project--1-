@@ -2,6 +2,7 @@ matplotlib
 numpy
 pandas
 graphviz
+graphviz-dev
 pygraphviz
 networkx
 seaborn
